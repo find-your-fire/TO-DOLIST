@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 6rem;
+  color: white;
+}
+
+.App-title {
+  color: #61dafb; /* Change this color to your desired color */
+}
+
+
